@@ -2,6 +2,8 @@
 
 Machine Learning and Deep Learning to Predict Patient Mortality
 
+Link to Jupyter notebook below:
+
 https://github.com/philipMLdatascientist/Capstone-Project/blob/main/MIMMIC.ipynb
 
 **Author**
