@@ -2,6 +2,8 @@
 
 Machine Learning and Deep Learning to Predict Patient Mortality
 
+https://github.com/philipMLdatascientist/Capstone-Project/blob/main/MIMMIC.ipynb
+
 **Author**
  
 Philip Hernandez, APRN
